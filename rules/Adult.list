@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,rdtcdn.com
 
 # ==================== Tube8 ====================
-DOMAIN-SUFFIX,tube8.com
+#DOMAIN-SUFFIX,tube8.com
 DOMAIN-SUFFIX,t8cdn.com
 
 # ==================== SpankBang ====================
@@ -75,7 +75,7 @@ DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,eyny.com
 
 # ==================== 2048 / HJD2048 ====================
-DOMAIN-SUFFIX,hjd2048.com
+#DOMAIN-SUFFIX,hjd2048.com
 
 # ==================== F95Zone ====================
 DOMAIN-SUFFIX,f95zone.to
