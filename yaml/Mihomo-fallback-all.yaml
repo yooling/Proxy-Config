@@ -6,7 +6,7 @@
 # 机场订阅（多节点直接复制下方代码并更新订阅链接即可，注意名称不可重复）
 proxy-providers:
   Airport1:
-    url: "http://38.175.196.72:5888/s/45314f645776fc5b5629f3a33db1ec8d"
+    url: "订阅链接"
     type: http
     interval: 86400
     health-check:
