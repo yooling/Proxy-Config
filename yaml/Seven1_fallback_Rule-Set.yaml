@@ -38,8 +38,7 @@ Anchor_OT: &Anchor_OT '^(?!.*(DIRECT|香港|台湾|日本|新加坡|韩国|美�
 # 将 “订阅链接” 与 “机场名” 替换为所用机场信息； 订阅条数不够可新增，注意开头缩进，不同条数前方 “机场名” 不能重复； 末尾的 “机场名” 作用为每个节点添加机场名称前缀，可自定义。
 proxy-providers:
 #  机场名: {<<: *Anchor_PR, url: '订阅链接', override: {additional-prefix: '[机场名] '}}
-  多宝: {<<: *Anchor_PR, url: 'http://38.175.196.72:5888/s/45314f645776fc5b5629f3a33db1ec8d', override: {additional-prefix: '[多宝] '}}
-  良心云: {<<: *Anchor_PR, url: 'https://liangxin.xyz/api/v1/liangxin?OwO=51e09b9ac29fd0e79403a77b997617cd', override: {additional-prefix: '[良心云] '}}
+
 
 
 
